@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvync",
+        "uuid": 7241880,
+        "checksum": "lhvlx"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
